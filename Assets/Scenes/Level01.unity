@@ -533,7 +533,7 @@ MonoBehaviour:
   score1Star: 15000
   score2Star: 18000
   score3Star: 21000
-  numMoves: 3
+  numMoves: 15
   targetScore: 15000
 --- !u!4 &1773144089
 Transform:
